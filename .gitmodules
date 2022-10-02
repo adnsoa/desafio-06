@@ -1,0 +1,9 @@
+[submodule "conversao-temperatura"]
+	path = conversao-temperatura
+	url = git@github.com:adnsoa/conversao-temperatura.git
+[submodule "conversao-distancia"]
+	path = conversao-distancia
+	url = git@github.com:adnsoa/conversao-distancia.git
+[submodule "conversao-peso"]
+	path = conversao-peso
+	url = git@github.com:adnsoa/conversao-peso.git
